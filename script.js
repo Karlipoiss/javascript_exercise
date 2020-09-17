@@ -114,7 +114,7 @@
 
 // map
 
-var mapAPIKey = "Ap2WX21ckMwlWXkAv-tTXmpfPERqSi-ZfdmF5ylcrIZQ9IyO6rKYgoSd22Bm6eYq ";
+var mapAPIKey = "Ap2WX21ckMwlWXkAv-tTXmpfPERqSi-ZfdmF5ylcrIZQ9IyO6rKYgoSd22Bm6eYq";
 
 var map;
 var infobox;
